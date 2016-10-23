@@ -1,6 +1,6 @@
 """
 =================
-:mod:'gawi bawi bo game'
+:name:'gawi bawi bo game'
 =================
 1. base
 	* 0 : gawi
