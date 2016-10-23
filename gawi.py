@@ -2,7 +2,7 @@
 =================
 :name:'gawi bawi bo game'
 =================
-1. base
+1. basic rule
 	* 0 : gawi
 	* 1 : bawi
 	* 2 : bo
