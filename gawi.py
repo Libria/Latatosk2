@@ -20,6 +20,9 @@
 	Check the input value ,people, is 0~2
 	if people < 0 or people > 2,
 	one more input
+4. how to play
+	Ordinary gawibawibo.
+	Good game
 """
 
 import random;
